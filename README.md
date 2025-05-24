@@ -2,6 +2,9 @@
 
 Skrip Bash untuk mengaktifkan atau menonaktifkan fungsi touchscreen pada Lenovo ThinkPad T490s.
 
+# Image
+![alt text](<public/shell touchsreen toggle.png>)
+
 ## Deskripsi
 Proyek ini berisi skrip Bash (`toggletouchscreen.sh`) yang memungkinkan pengguna untuk mengaktifkan atau menonaktifkan perangkat touchscreen (Raydium Corporation Raydium Touch System Touchscreen) pada Lenovo ThinkPad T490s. Skrip ini memanipulasi aturan udev dan izin perangkat untuk mengontrol status touchscreen serta melakukan unbind/bind perangkat USB untuk menerapkan perubahan.
 
